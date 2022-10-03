@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.11.4.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-client-1.19.1.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="libs/json-20180130.jar"/>
+	<classpathentry kind="lib" path="libs/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/poi-scratchpad-5.0.0.jar" sourcepath="libs/poi-scratchpad-5.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="libs/poi-scratchpad-5.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
